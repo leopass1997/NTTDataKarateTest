@@ -11,7 +11,7 @@ Comandos de instalación:
 
     java -version (Valida version de java instalado localmente)
     mvn -version (Valida version de maven instalado localmente)
-    En caso de que no se cargue bien el proyecto ala brir con intellij unicamente vaciar cache de IDE y volvera a descargar y actualziar automaticamente
+    En caso de que no se cargue bien el proyecto al abrir con intellij únicamente vaciar cache de IDE y volverá a descargar y actualizar automáticamente
 
 Instrucciones para ejecutar los test
 
